@@ -1,0 +1,23 @@
+# Ignore system files and directories
+AppData/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+WPS Cloud Files/
+WPSDrive/
+
+# Ignore IDE-specific and temporary files
+.cache/
+.wdm/
+chrome.exe
+ntuser.dat*
+*.html
+*.pyc
+*.log
