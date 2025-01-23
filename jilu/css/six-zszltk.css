@@ -1,0 +1,224 @@
+.redClass {
+    background: red;
+    color: #fff
+}
+
+.blueClass {
+    background: #00f;
+    color: #fff
+}
+
+.greenClass {
+    background: #090;
+    color: #fff
+}
+
+.bd {
+    font-size: 14px
+}
+
+.fn-hr45 {
+    height: 45px;
+    display: block
+}
+
+.fn-hr50 {
+    height: 50px;
+    display: block
+}
+
+.fn-hr55 {
+    height: 55px;
+    display: block
+}
+
+.fn-hr60 {
+    height: 60px;
+    display: block
+}
+
+.cgi-zs .hd {
+    height: 35px;
+    line-height: 35px;
+    font-size: 16px;
+    overflow: hidden;
+    background: #fff;
+    margin-bottom: 5px
+}
+
+.cgi-zs .hd ul li {
+    float: left;
+    width: 16.66%;
+    text-align: center;
+    vertical-align: top
+}
+
+.cgi-zs .hd ul li.on a {
+    color: red;
+    display: block;
+    height: 33px;
+    line-height: 33px;
+    border-bottom: 2px solid red
+}
+
+.cgi-zs .bd td {
+    text-align: center;
+    padding: 2px 0;
+    border: 1px solid #ddd
+}
+
+.tableti td {
+    background: #f8f8f8;
+    border-bottom: 2px solid #666
+}
+
+.cgi-zs .bd td font {
+    display: block
+}
+
+.cgi-zs .bd td i {
+    color: #999;
+    font-size: 10px
+}
+
+.cgi-zl .hd {
+    height: 77px;
+    padding-top: 10px;
+    border-bottom: 1px solid #ddd;
+    overflow: hidden
+}
+
+.cgi-zl .hd ul li {
+    float: left;
+    width: 20%;
+    text-align: center
+}
+
+.cgi-zl .hd ul li span {
+    display: block;
+    width: 50%;
+    height: 40px;
+    margin: 0 auto 10px auto
+}
+
+.cgi-zl .hd ul li span img {
+    height: 100%;
+    width: auto
+}
+
+.cgi-zl .hd ul li.on a {
+    display: block;
+    padding-bottom: 5px;
+    border-bottom: 3px solid red
+}
+
+.sxsuxing1 td {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0
+}
+
+.hongbospan span {
+    margin: 3px 5px;
+    float: left;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: red
+}
+
+.lanbospan span {
+    margin: 3px 5px;
+    float: left;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #36f
+}
+
+.lvbospan span {
+    margin: 3px 5px;
+    float: left;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #093
+}
+
+.sxsuxing2 td {
+    border-bottom: 1px solid #ddd;
+    padding: 5px 0;
+    overflow: hidden
+}
+
+.sxsuxing1 span,
+.sxsuxing2 span {
+    float: left;
+    height: 20px;
+    line-height: 20px;
+    width: 20px;
+    text-align: center;
+    margin: 0 3px;
+    color: #fff;
+    font-size: 12px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%
+}
+
+.sxsuxing2 i {
+    float: left;
+    width: 50px;
+    text-align: center;
+    height: 20px;
+    line-height: 20px
+}
+
+.sxsuxing3 td {
+    border-bottom: 1px solid #ddd;
+    padding: 5px 10px;
+    overflow: hidden
+}
+
+.sxsuxing3 i {
+    color: red
+}
+
+.bg_red {
+    background: red
+}
+
+.bg_blue {
+    background: #36f
+}
+
+.bg_green {
+    background: #093
+}
+
+@media screen and (max-width:320px) {
+    .sxsuxing1 span,
+    .sxsuxing2 span {
+        margin: 0 2px
+    }
+    .sxsuxing2 i {
+        width: 45px
+    }
+}
